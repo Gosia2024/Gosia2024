@@ -1,8 +1,4 @@
-<style>
-  .tech-icons img {
-    height: 20px;
-  }
-</style>
+
 
 <div class="tech-icons" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo"  />
