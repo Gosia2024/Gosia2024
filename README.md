@@ -1,13 +1,11 @@
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="10" alt="html5 logo"  />
 </div>
 
-###
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gosia2024/Gosia2024/output/pacman-contribution-graph-dark.svg">
@@ -15,4 +13,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gosia2024/Gosia2024/output/pacman-contribution-graph.svg">
 </picture>
 
-###
