@@ -11,6 +11,7 @@
 ## 🚀 About Me
 - 💻 Frontend & DevSecOps Developer  
 - 🌍 Always eager to learn
+- - 🎨 I love design—clean
 ## 🎓 Certifications
 
 - Professional Scrum Product Owner I (PSPO I) – Scrum.org
