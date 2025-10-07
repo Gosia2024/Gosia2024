@@ -13,7 +13,7 @@
 - 🌍 Always eager to learn
 ## 🎓 Certifications
 
-<img src="assets/pspo1.png" alt="Professional Scrum Product Owner I" width="400"/>
+- Professional Scrum Product Owner I (PSPO I) – Scrum.org
 ---
 ## Tech Stack
 <p>
