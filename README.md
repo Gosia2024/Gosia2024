@@ -15,6 +15,9 @@
 
 - Professional Scrum Product Owner I (PSPO I) – Scrum.org
 ---
+## 🌍 Location
+- Living in Germany 🇩🇪 and Poland 🇵🇱  
+- Working remotely and open to international collaboration 🌐  
 ## Tech Stack
 <p>
 
