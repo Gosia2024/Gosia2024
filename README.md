@@ -6,7 +6,7 @@
   <a href="https://gosia2024.github.io/dso_blog/portfolio"><b>→ Visit my Portfolio</b></a>
 </p>
   <br/><br/>
- ---
+
 
 ## 🚀 About Me
 - 💻 Frontend & DevSecOps Developer  
