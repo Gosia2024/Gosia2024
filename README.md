@@ -12,8 +12,8 @@
 - 💻 Frontend & DevSecOps Developer  
 - 🌍 Always eager to learn
 ## 🎓 Certifications
-- Professional Scrum Product Owner I (PSPO I) – Scrum.org
 
+<img src="assets/pspo1.png" alt="Professional Scrum Product Owner I" width="400"/>
 ---
 ## Tech Stack
 <p>
