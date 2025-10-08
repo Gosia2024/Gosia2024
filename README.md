@@ -1,3 +1,4 @@
+<img src="https://malgorzata-lingenfelder.de/assets/img/header/logo.png" alt="Gosia Logo" height="40" />
 <h1 align="center">Hi 👋, I'm Gosia</h1>
 
 <p align="center">
