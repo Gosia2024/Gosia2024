@@ -9,7 +9,7 @@
 
 
 ## 🚀 About Me
-- 💻 Frontend & DevSecOps Developer  
+- 💻 Frontend 
 - 🌍 Always eager to learn
 - 🎨 Passionate about clean, accessible design
 ## 🎓 Certifications
