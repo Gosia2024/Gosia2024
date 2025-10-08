@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gosia</h1>
 
 <p align="center">
-  <b>Frontend</b><br/>
   <br/><br/>
   <a href="https://gosia2024.github.io/dso_blog/portfolio"><b>→ Visit my Portfolio</b></a>
 </p>
